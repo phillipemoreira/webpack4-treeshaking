@@ -1,0 +1,23 @@
+{
+  "name": "webpack4-treeshaking",
+  "version": "1.0.0",
+  "description": "Testing out webpack4 tree shaking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipemoreira/webpack4-treeshaking.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack4"
+  ],
+  "author": "Phillipe Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillipemoreira/webpack4-treeshaking/issues"
+  },
+  "homepage": "https://github.com/phillipemoreira/webpack4-treeshaking#readme"
+}
